@@ -1,2 +1,0 @@
-# example
-just new repo
